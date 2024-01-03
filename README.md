@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @krishna120801
-- 👀 I’m interested in Web development and API project
-- 🌱 I’m currently learning google cloud and MERN stack
-- 💞️ I’m looking to collaborate on Google cloud & MERN projects
+- 👋 Hi, I’m Krishna
+- 👀 I’m interested in python and cloud based project.
+- 🌱 I’m experienced devops engineer.
+- 💞️ I’m looking to collaborate on Cloud and devops based project.
 - 📫 How to reach me ksahu5505@gmail.com
 
 <!---
