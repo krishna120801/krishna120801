@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishna
-- 👀 I’m interested in python and cloud based project.
-- 🌱 I’m experienced devops engineer.
+- 👀 I’m 3 year experienced DevOps Engineer.
+- 🌱 Always ready to adapt new technologies and learn different architectures.
 - 💞️ I’m looking to collaborate on Cloud and devops based project.
 - 📫 How to reach me ksahu5505@gmail.com
 
